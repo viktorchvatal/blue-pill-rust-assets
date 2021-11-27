@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="panic-led.svg">
+   sodipodi:docname="panic-led.svg"
+   inkscape:export-filename="/home/vchvatal/prog/blue-pill-rust-assets/panic-handling/panic-led-schematic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <marker
@@ -8549,7 +8552,7 @@ WccCt5gTrWYo4zJzmnNGycH/B9G/X9ZNXlLUAAAAAElFTkSuQmCC
        width="127" />
     <path
        style="fill:none;stroke:#fefcfc;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 133.43431,75.934692 v -6.447878 h 23.25245 V 90.53429"
+       d="m 62.47425,75.934692 v -6.447878 l 94.21251,0 V 90.53429"
        id="path826"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
