@@ -1,0 +1,5 @@
+ffmpeg -y \
+    -i 6N7A3393.MOV \
+    -ss 8 \
+    -filter:v "crop=1020:631:540:218,scale=510:315,fps=5" \
+    output.gif
